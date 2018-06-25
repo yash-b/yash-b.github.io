@@ -11,7 +11,7 @@ ___
 + Proficient in C++ and Java programming languages.  
 + Learnt programming languages and scripting including SQL, HTML, and CSS.  
 + Constantly self-teaching relevant IDEs like Python and AndroidStudio.  
-+ Familiar with using GitHub.  
++ Familiar with using GitHub.
 ___
 ### **Education**  
 #### High Bluff Academy  
@@ -22,7 +22,7 @@ ___
 >Recieved Graphic Design certificate while taking Computer Science courses and transferred to CSU Fullerton with 3.40 GPA.    
 #### California State University, Fullerton _(Spring 2018 - Present)_  
 >Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
- >Currently enrolled in Upper Division Courses for Computer Science.
+ >Currently enrolled in Upper Division Courses for Computer Science.  
 ___
 ### **Volunteering Experience**
 #### Minuteman Press, Northridge _(July 2014 - December 2016)_
