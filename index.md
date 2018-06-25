@@ -14,14 +14,14 @@ To search for a position that will allow me to improve my current programming, c
 ### **Skills & Abilities**
 + Proficient in C++ and Java programming languages.  
 + Learnt programming languages and scripting including SQL, HTML, and CSS.  
-+ Constantly self-teaching relevant IDEs like Python and AndroidStudio.  
++ Constantly self-teaching relevant IDEs like VisualStudio and AndroidStudio.  
 + Familiar with using GitHub.
 
 ---
 
 ### **Education**  
 #### High Bluff Academy  
->Graduated June 2014 with 4.0  
+>Graduated with 4.0, whilst taking AP Calculus and AP Physics.  
 
 #### Skyline College, San Bruno _(Fall 2015)_
 >Transferred to LA Pierce College with 3.50 while being mentioned in the Dean's List. 
@@ -43,10 +43,10 @@ While I volunteered I gained a lot of experience in team communication, customer
 + **Technology Manager:** Responsible for maintaing 5 computers, 2 industrial sized printers, 1 scanner, 1 DPM Platemaker, 1 Network Drive. Maintainence included: software upgrades, keeping them in the same network, replacing parts, wire management. 
 
 #### LA Pierce College, Woodland Hills _(Spring 2016 - Spring 2017)_
-Elected as an IT Admin of International Students Club, where I was in-charge of creating and uploading flyers, creating event pages on facebook, sending out mass email to all members with all relevant informations in a professional manner.  
+Elected as an **IT Admin** of International Students Club, where I was in-charge of creating and uploading flyers, creating event pages on facebook, sending out mass email to all members with all relevant informations in a professional manner.  
 
 #### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
-While I volunteered as a cashier, I gained experience in customer service and how to deal with stressful situations with difficult clients.
+While I volunteered as a **cashier**, I gained experience in customer service and how to deal with stressful situations with difficult clients.
 
 ---
 
