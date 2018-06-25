@@ -11,7 +11,7 @@ ___
 + Proficient in C++ and Java programming languages.  
 + Learnt programming languages and scripting including SQL, HTML, and CSS.  
 + Constantly self-teaching relevant IDEs like Python and AndroidStudio.  
-+ Familiar with using GitHub.  
++ Familiar with using GitHub.
 ___
 ### **Education**  
 #### High Bluff Academy  
