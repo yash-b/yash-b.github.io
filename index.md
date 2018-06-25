@@ -44,7 +44,9 @@ While I volunteered I gained a lot of experience in team communication, customer
 
 #### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
 While I volunteered as a cashier, I gained experience in customer service and how to deal with stressful situations with difficult clients.
+
 ---
+
 ### **Other Skills & Hobbies**
 + Currently self-learning AndroidStudio.
 + Have experience in creating App Screens, logos, color swatches (visual only).
