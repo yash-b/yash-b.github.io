@@ -47,6 +47,13 @@ While I volunteered as a cashier, I gained experience in customer service and ho
 
 ---
 
+### **Project Showcase**
++ [Computer Science Projects.](https://www.dropbox.com/sh/bj8y8v2lkluo6bw/AAAPHVlp8XMYx_sX1oPuVUwTa?dl=0)
++ [Graphic Design Projects.](https://www.dropbox.com/sh/ocyyg1daie1mnyf/AACJubNC_QLwHfD-ttt5HHXRa?dl=0)
++ [Technical Writing Projects.](https://www.dropbox.com/sh/qdwhqair22d1m12/AACylF0uFs_9O_Ig8jjV5Qkea?dl=0)  
+
+---
+
 ### **Other Skills & Hobbies**
 + Currently self-learning AndroidStudio.
 + Have experience in creating App Screens, logos, color swatches (visual only).
