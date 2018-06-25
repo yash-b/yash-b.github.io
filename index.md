@@ -3,16 +3,16 @@
 Santa Ana, CA 92704  
 bhambhani.yash@gmail.com  
 (858) 900-8383  
-___
+---
 ### **Summary**  
 To search for a position that will allow me to improve my current programming, communication and teamwork skills. From this position, I also seek the opportunity to learn new skills for future use.  
-___
+---
 ### **Skills & Abilities**
 + Proficient in C++ and Java programming languages.  
 + Learnt programming languages and scripting including SQL, HTML, and CSS.  
 + Constantly self-teaching relevant IDEs like Python and AndroidStudio.  
 + Familiar with using GitHub.
-___
+---
 ### **Education**  
 #### High Bluff Academy  
 >Graduated June 2014 with 4.0  
@@ -23,7 +23,7 @@ ___
 #### California State University, Fullerton _(Spring 2018 - Present)_  
 >Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
  >Currently enrolled in Upper Division Courses for Computer Science.  
-___
+---  
 ### **Volunteering Experience**
 #### Minuteman Press, Northridge _(July 2014 - December 2016)_
 While I volunteered I gained a lot of experience in team communication, customer service, and graphic design. I volunteered under the following titles:
@@ -33,7 +33,7 @@ While I volunteered I gained a lot of experience in team communication, customer
 
 #### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
 While I volunteered as a cashier, I gained experience in customer service and how to deal with stressful situations with difficult clients.
-___
+---
 ### **Other Skills & Hobbies**
 + Currently self-learning AndroidStudio.
 + Have experience in creating App Screens, logos, color swatches (visual only).
