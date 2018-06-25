@@ -42,6 +42,9 @@ While I volunteered I gained a lot of experience in team communication, customer
 + **Customer Representative:** Gained experience in greeting customers, entering all the necessary information about the customer and their orders in the system, and assigning it to the particular colleague in-charge.
 + **Technology Manager:** Responsible for maintaing 5 computers, 2 industrial sized printers, 1 scanner, 1 DPM Platemaker, 1 Network Drive. Maintainence included: software upgrades, keeping them in the same network, replacing parts, wire management. 
 
+#### LA Pierce College, Woodland Hills _(Spring 2016 - Spring 2017)_
+Elected as an IT Admin of International Students Club, where I was in-charge of creating and uploading flyers, creating event pages on facebook, sending out mass email to all members with all relevant informations in a professional manner.  
+
 #### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
 While I volunteered as a cashier, I gained experience in customer service and how to deal with stressful situations with difficult clients.
 
