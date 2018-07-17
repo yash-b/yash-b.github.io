@@ -45,9 +45,6 @@ While I volunteered I gained a lot of experience in team communication, customer
 #### LA Pierce College, Woodland Hills _(Spring 2016 - Spring 2017)_
 Elected as an **IT Admin** of International Students Club, where I was in-charge of creating and uploading flyers, creating event pages on facebook, sending out mass email to all members with all relevant informations in a professional manner.  
 
-#### Bombay Spiceland, Reseda _(December 2016 - January 2017)_
-While I volunteered as a **cashier**, I gained experience in customer service and how to deal with stressful situations with difficult clients.
-
 ---
 
 ### **Project Showcase**
