@@ -1,4 +1,4 @@
-### Yash Bhambhani  
+### [Yash Bhambhani](https://www.linkedin.com/in/yash-bhambhani-31288a17b/)  
 1601 W MacArthur Blvd, #7F  
 Santa Ana, CA 92704  
 bhambhani.yash@gmail.com  
