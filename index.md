@@ -20,18 +20,20 @@ To search for a position that will allow me to improve my current programming, c
 ---
 
 ### **Education**  
-#### High Bluff Academy  
->Graduated with 4.0, whilst taking AP Calculus and AP Physics.  
+
+#### California State University, Fullerton _(Spring 2018 - Present)_  
+>Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
+>>Currently enrolled in Upper Division Courses for Computer Science.  
+
+#### LA Pierce College, Woodland Hills _(Spring 2016 - Fall 2017)_  
+>Recieved Graphic Design certificate while taking Computer Science courses and transferred to CSU Fullerton with 3.40 GPA. 
+
 
 #### Skyline College, San Bruno _(Fall 2015)_
 >Transferred to LA Pierce College with 3.50 while being mentioned in the Dean's List. 
 
-#### LA Pierce College, Woodland Hills _(Spring 2016 - Fall 2017)_  
->Recieved Graphic Design certificate while taking Computer Science courses and transferred to CSU Fullerton with 3.40 GPA.  
-  
-#### California State University, Fullerton _(Spring 2018 - Present)_  
->Pursuing Bachelors in Computers Science, mentioned in the Dean's List with expected Graduation Date of 2020. 
->>Currently enrolled in Upper Division Courses for Computer Science.  
+#### High Bluff Academy  
+>Graduated with 4.0, whilst taking AP Calculus and AP Physics.  
 
 ---
   
@@ -44,6 +46,24 @@ While I volunteered I gained a lot of experience in team communication, customer
 
 #### LA Pierce College, Woodland Hills _(Spring 2016 - Spring 2017)_
 Elected as an **IT Admin** of International Students Club, where I was in-charge of creating and uploading flyers, creating event pages on facebook, sending out mass email to all members with all relevant informations in a professional manner.  
+
+---
+
+### **Academic Projects**
++ **Library Portal Web App** _(Feb 2019 - Present)_
+Developing a Library Portal that allows students, and library administrators to create accounts, rent out/ turn in books, and request for new books. _(React, Node.js, HTML5, CSS)_
+
++ **Lexical Analyzer** _(Feb 2019 - Present)_
+Building an FSM with a transition table to break source coud into lexems that can be further translated by other steps of compilation into object code. _(C++, Visual Studio)_
+
++ **Finance Management Tool** _(Fall 2018)_
+Developed a management tool with GUI that was directed towards students to enter their various expenses and incomes through various fields in order to calculate their weekly and monthly expenditures. _(C++, QTLite)_
+
++ **University Database** _(Summer 2018)_
+Designed an ER Table, a relational table, and a correlated database with various tables for students, proessors, staff, courses, secotions, grades and queries that returns different searches. _(MySQL)_
+
++ **Moving Basketball Hoop** _(Summer 2018)_
+Used Raspberry Pi to control two motors, which were connected to the basketball hoop that moved on a horizontal axis to make the shots more difficult to make. _(Python, RaspberryPi)_
 
 ---
 
