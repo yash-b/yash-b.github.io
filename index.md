@@ -1,7 +1,7 @@
-<p align="center"><font size="5"><a href="https://www.linkedin.com/in/yash-bhambhani-31288a17b/">Yash Bhambhani</a></font></p>
-<p align="center"><font size="3">1601 W MacArthur Blvd, #7F • Santa Ana, CA 92704</font></p>
-<p align="center"><font size="3">bhambhani.yash@gmail.com • (858) 900-8383</font></p>
-<p align="center"><font size="3"><a href="https://yash-b.github.io/YashB.pdf">My Resume</a></font></p>
+<body align="center"><font size="5"><a href="https://www.linkedin.com/in/yash-bhambhani-31288a17b/">Yash Bhambhani</a></font></body>
+<body align="center"><font size="3">1601 W MacArthur Blvd, #7F • Santa Ana, CA 92704</font></body>
+<body align="center"><font size="3">bhambhani.yash@gmail.com • (858) 900-8383</font></body>
+<body align="center"><font size="3"><a href="https://yash-b.github.io/YashB.pdf">My Resume</a></font></body>
 
 
 ---
