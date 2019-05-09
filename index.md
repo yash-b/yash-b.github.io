@@ -1,5 +1,4 @@
-<p align="center">
-<h2><a href="https://www.linkedin.com/in/yash-bhambhani-31288a17b/">Yash Bhambhani</a>
+<p align="center"><h2><a href="https://www.linkedin.com/in/yash-bhambhani-31288a17b/">Yash Bhambhani</a>
 <h4>1601 W MacArthur Blvd, #7F • Santa Ana, CA 92704  
 <h4>bhambhani.yash@gmail.com • (858) 900-8383  
 <h4><a href="https://yash-b.github.io/YashB.pdf">My Resume</a></p>
