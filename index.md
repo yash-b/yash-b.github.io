@@ -3,7 +3,7 @@
 Santa Ana, CA 92704  
 bhambhani.yash@gmail.com  
 (858) 900-8383
-[My Resume](https://yash-b.github.io/YashB.pdf)
+[My Resume](https://yash-b.github.io/YashB.pdf) 
 
 ---
 
@@ -83,4 +83,4 @@ Used Raspberry Pi to control two motors, which were connected to the basketball 
 + Self-taught Counter-Strike: Global Offensive map creator using _Valve CS:SDK._
 + Technical proficiency in Windows, Linux (Ubuntu and Fedora), and MAC OS.
 
-<p align="center"> [GitHub Repository](https://github.com/yash-b/yash-b.github.io) </p>
+<a href="https://github.com/yash-b/yash-b.github.io"><p align="center"> GitHub Repository</p></a>
