@@ -2,8 +2,8 @@
 1601 W MacArthur Blvd, #7F  
 Santa Ana, CA 92704  
 bhambhani.yash@gmail.com  
-(858) 900-8383
-[My Resume](https://yash-b.github.io/YashB.pdf) 
+(858) 900-8383  
+[My Resume](https://yash-b.github.io/YashB.pdf)
 
 ---
 
