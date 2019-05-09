@@ -81,3 +81,5 @@ Used Raspberry Pi to control two motors, which were connected to the basketball 
 + Strong interest in new technologies and how they function.
 + Self-taught Counter-Strike: Global Offensive map creator using _Valve CS:SDK._
 + Technical proficiency in Windows, Linux (Ubuntu and Fedora), and MAC OS.
+
+<p style="text-align: center;"> [GitHub Repository](https://github.com/yash-b/yash-b.github.io) </p>
