@@ -77,7 +77,6 @@ function showDetails(){
   document.body.classList.remove(HIDDEN_DETAIL_CLASS);
 }
 
-// cycle back through thumbnails
 function preButtonClick(thumbnails){
   'use strict';
   preButton.addEventListener("click", function(event){
