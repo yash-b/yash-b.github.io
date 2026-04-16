@@ -266,7 +266,8 @@ input, select, textarea {
 /* Container */
 
 body{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Poppins', Helvetica, Arial, sans-serif;
+	font-size: 15pt;
   }
   .container{
 	width: 50%;
