@@ -2182,12 +2182,12 @@ body{
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
-				border: solid 3px rgba(255, 255, 255, 0.5);
-				color: #fff;
-				content: 'View';
+				border: solid 3px #50270f;
+				color: #50270f;
+				content: 'VIEW';
 				display: inline-block;
 				font-size: 0.8em;
-				font-weight: 400;
+				font-weight: bold;
 				left: 50%;
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
@@ -2560,7 +2560,7 @@ body{
 		color: rgb(52, 36, 10) !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 400;
+		font-weight: bold;
 		height: 3.15em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
