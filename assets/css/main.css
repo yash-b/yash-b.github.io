@@ -73,6 +73,23 @@ input, select, textarea {
 	padding: 50px;
 }
 
+.button-group {
+	display: flex;
+	gap: 16px;
+	justify-content: flex-start;
+}
+
+@media (max-width: 600px) {
+  .button-group {
+    flex-direction: column;
+    align-items: center; /* 👈 aligns with text instead of center */
+  }
+
+  .btn {
+    width: 100%; /* nice full-width buttons */
+  }
+}
+
 .hover-colorize-zoom img {
 	transition: transform 0.75s, filter 0.75s ease-in-out;
   	filter: grayscale(100%);
