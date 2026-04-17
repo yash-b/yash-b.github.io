@@ -110,6 +110,35 @@ input, select, textarea {
 	margin-bottom: 10px;
 }
 
+.featured {
+  border: 4px solid rgb(150, 105, 32);
+  border-radius: 12px;
+  padding: 10px;
+  background: rgba(150, 105, 32, 0.08);
+}
+
+.featured h3::before {
+  content: "⭐";
+  color:rgb(150, 105, 32);
+}
+
+.featured .image {
+  display: block;
+  margin: 0 auto 16px auto;
+  max-width: 100%;
+}
+
+.featured h3 {
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.featured p {
+  margin: 0 auto;
+  max-width: 700px; /* prevents awkward wide text */
+  line-height: 1.6;
+}
+
 /* Basic */
 
 	html {
