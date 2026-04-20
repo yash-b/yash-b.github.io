@@ -4,8 +4,7 @@ Welcome to my personal portfolio website.
 
 This site showcases my work across **product development, full-stack engineering, and applied AI**, along with projects spanning academic research and real-world applications.
 
-🔗 **Live Site:** https://yash-b.github.io/Playground-client  
-📂 **Repository:** https://github.com/yash-b/yash-b.github.io  
+🔗 **Live Site:** https://yash-b.github.io/
 
 ---
 
@@ -13,9 +12,9 @@ This site showcases my work across **product development, full-stack engineering
 
 I’m **Yash Bhambhani**, a product-focused builder with a background in Computer Science.
 
-- 🎓 Master’s in Computer Science  
-- 💼 Former Application Developer at Trumpia  
-- 🚀 Current Technical Product Manager at Mercury Insurance  
+- 🎓 Master’s in Computer Science from CSU Fullerton 
+- 💼 Former Application Developer / Technical Product Manager at Trumpia  
+- 🚀 Currently, Technical Product Manager at Mercury Insurance  
 
 At **Trumpia**, I built messaging workflows and user-centric features across:
 - SMS
@@ -107,6 +106,8 @@ Recreated a simplified version of the Crossy Roads game.
 - Core gameplay mechanics
 - Unreal Engine implementation
 
+🔗 https://github.com/yash-b/crossyRoads
+
 ---
 
 ### ♟️ Connect 4 AI
@@ -124,6 +125,7 @@ A Connect 4 game with AI decision-making.
 ### 🎨 Graphic Design Portfolio
 A collection of design work created during school.
 
+🔗 https://yash-b.github.io/assets/files/gd-portfolio.pdf
 ---
 
 ## 🛠️ Skills
@@ -164,7 +166,7 @@ A collection of design work created during school.
 This portfolio is built using:
 - HTML5
 - CSS3
-- JavaScript (jQuery-based components)
+- JavaScript
 - Responsive design utilities
 
 ---
@@ -179,5 +181,5 @@ This portfolio is built using:
 
 ## ©️ License
 
-© Yash Bhambhani  
+© 2018 - Present Yash Bhambhani  
 All rights reserved.
